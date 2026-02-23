@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Deal with the devil",
+  "base_artist": "Tia",
+  "createdAt": "2026-02-23T01:02:13.224589Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Deal With The Devil",
+      "artist": "Winger",
+      "has_synced": true,
+      "path": "select/01_Deal_With_The_Devil_Winger.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Deal With the Devil",
+      "artist": "Trippelgänger",
+      "has_synced": true,
+      "path": "select/02_Deal_With_the_Devil_Trippelgänger.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Deal with the devil",
+      "artist": "Tia",
+      "has_synced": true,
+      "path": "select/03_Deal_with_the_devil_Tia.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Deal with the Devil",
+      "artist": "WASP",
+      "has_synced": true,
+      "path": "select/04_Deal_with_the_Devil_WASP.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Deal with the Devil",
+      "artist": "Pop Evil",
+      "has_synced": true,
+      "path": "select/05_Deal_with_the_Devil_Pop_Evil.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Deal With The Devil",
+      "artist": "Rvshvd",
+      "has_synced": false,
+      "path": "select/06_Deal_With_The_Devil_Rvshvd.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Deal With The Devil",
+      "artist": "Judas Priest",
+      "has_synced": true,
+      "path": "select/07_Deal_With_The_Devil_Judas_Priest.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Deal With The Devil",
+      "artist": "Backtrack",
+      "has_synced": true,
+      "path": "select/08_Deal_With_The_Devil_Backtrack.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Deal with the devil",
+      "artist": "Selphius",
+      "has_synced": true,
+      "path": "select/09_Deal_with_the_devil_Selphius.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Deal with the devil",
+      "artist": "Tia",
+      "has_synced": true,
+      "path": "select/10_Deal_with_the_devil_Tia.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Deal With the Devil",
+      "artist": "HAZZERD",
+      "has_synced": true,
+      "path": "select/11_Deal_With_the_Devil_HAZZERD.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don't Deal With the Devil",
+      "artist": "Kristofer Maddigan",
+      "has_synced": true,
+      "path": "select/12_Don't_Deal_With_the_Devil_Kristofer_Maddigan.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Deal With The Devil",
+      "artist": "Vicious Rumors",
+      "has_synced": false,
+      "path": "select/13_Deal_With_The_Devil_Vicious_Rumors.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Deal with the Devil (Remastered)",
+      "artist": "Winger",
+      "has_synced": true,
+      "path": "select/14_Deal_with_the_Devil_(Remastered)_Winger.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Deal with the devil",
+      "artist": "Tia",
+      "has_synced": false,
+      "path": "select/pl_01_Deal_with_the_devil_Tia.txt"
+    }
+  ]
+}
